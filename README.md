@@ -7,6 +7,11 @@ I am a developer passionate about **Artificial Intelligence**, **Machine Learnin
 💻 **Languages:** Python, C, C++, Bash,javascript,react native
 
 🚀 **Recent Engineering Project:**
+**🎨 [AI Cartoonizer & Image Processing](https://github.com/noureenibrahim/AI-Cartoonizer-Project) **
+A computer vision application that stylizes images and webcam feeds using Deep Learning.
+** Core Tech **: Python, OpenCV, PyTorch, Streamlit.
+Key Concepts: Generative Adversarial Networks (GANs), K-Means Clustering, Image Processing Pipelines.
+
 
 **[🏥 Healthcare OS Simulator](https://github.com/noureenibrahim/healthcare-os-simulator)**
 *A C-based shell simulating hospital system management.*
