@@ -10,8 +10,10 @@ I am a developer passionate about **Artificial Intelligence**, **Machine Learnin
 
 [**🎨 AI Cartoonizer & Image Processing**](https://github.com/noureenibrahim/AI-Cartoonizer-Project)
 *A computer vision application that stylizes images and webcam feeds using Deep Learning.*
--**Core Tech:** Python, OpenCV, PyTorch, Streamlit.
--**Key Concepts:** Generative Adversarial Networks (GANs), K-Means Clustering, Image Processing Pipelines.
+
+**Core Tech:** Python, OpenCV, PyTorch, Streamlit.
+
+**Key Concepts:** Generative Adversarial Networks (GANs), K-Means Clustering, Image Processing Pipelines.
 
 
 **[🏥 Healthcare OS Simulator](https://github.com/noureenibrahim/healthcare-os-simulator)**
