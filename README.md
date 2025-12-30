@@ -1,5 +1,5 @@
 # Hi there, I'm Noureen! 👋
-### Computer Engineering Student | AI Enthusiast 🤖
+### Computer Engineering Student |Specializing in AI
 
 I am a developer passionate about **Artificial Intelligence**, **Machine Learning**, and **Programming**. I love building intelligent software and solving complex engineering problems.
 
