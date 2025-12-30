@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Noureen! 👋
+### Computer Engineering Student | AI Enthusiast 🤖
 
-<!--
-**noureenibrahim/noureenibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about **Artificial Intelligence**, **Machine Learning**, and **Programming**. I love building intelligent software and solving complex engineering problems.
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:** Deep Learning & Neural Networks
+💻 **Languages:** Python, C, C++, Bash,javascript,react native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Recent Engineering Project:**
+
+**[🏥 Healthcare OS Simulator](https://github.com/noureenibrahim/healthcare-os-simulator)**
+*A C-based shell simulating hospital system management.*
+- **Core Tech:** C, Linux System Calls, Bash Scripting.
+- **Key Concepts:** Process Scheduling, Memory Management, Multithreading.
+
+---
+
+📫 **Contact Me:** [https://www.linkedin.com/in/noureen-ibrahim-95a675266/]
