@@ -8,7 +8,7 @@ I am a developer passionate about **Artificial Intelligence**, **Machine Learnin
 
  **Recent Engineering Project:**
 
-[** AI Cartoonizer & Image Processing**](https://github.com/noureenibrahim/AI-Cartoonizer-Project)
+[**AI Cartoonizer & Image Processing**](https://github.com/noureenibrahim/AI-Cartoonizer-Project)
 *A computer vision application that stylizes images and webcam feeds using Deep Learning.*
 
 **Core Tech:** Python, OpenCV, PyTorch, Streamlit.
