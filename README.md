@@ -7,6 +7,12 @@ I am a developer passionate about **Artificial Intelligence**, **Machine Learnin
  **Languages:** Python, C, C++, Bash,javascript,react native
 
  **Recent Engineering Project:**
+ 
+[**Image Encryption Project**](https://github.com/noureenibrahim/image-encryption-project-)
+AES image encryption using CBC, CFB, OFB modes with RSA digital signatures.
+
+* Core Tech: Python, Cryptography, PIL.
+* Key Concepts: AES Encryption, RSA Signatures, BMP Image Processing.
 
 [**AI Cartoonizer & Image Processing**](https://github.com/noureenibrahim/AI-Cartoonizer-Project)
 *A computer vision application that stylizes images and webcam feeds using Deep Learning.*
