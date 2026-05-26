@@ -7,6 +7,10 @@ I am a developer passionate about **Artificial Intelligence**, **Machine Learnin
  **Languages:** Python, C, C++, Bash,javascript,react native
 
  **Recent Engineering Project:**
+ ### [🎵 Music Player App](https://github.com/noureenibrahim/Mobile-Computing)
+A mobile music player application built for Android.
+- **Core Tech:** Kotlin, Android Studio, Gradle
+- **Key Concepts:** Mobile Development, UI Design, Media Playback
  
 [**Image Encryption Project**](https://github.com/noureenibrahim/image-encryption-project-)
 AES image encryption using CBC, CFB, OFB modes with RSA digital signatures.
