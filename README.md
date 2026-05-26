@@ -8,9 +8,7 @@ I am a developer passionate about **Artificial Intelligence**, **Machine Learnin
 
  **Recent Engineering Project:**
  
-[**Smart Campus System**](https://github.com/noureenibrahim/University_Resource_Managment)
-
-A full-stack university resource management portal with role-based access control and real-time notifications.
+[**Smart Campus System**](https://github.com/noureenibrahim/University_Resource_Managment)A full-stack university resource management portal with role-based access control and real-time notifications.
 - **Core Tech:** Python, Flask, React, Oracle XE
 - **Key Concepts:** RBAC, REST APIs, Server-Sent Events, Database Design
  
